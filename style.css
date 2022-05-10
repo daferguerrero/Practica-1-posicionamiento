@@ -8,12 +8,12 @@ div{
 }
 
 /****** Centrar vertical ******/
-/* body{
+body{
   display: flex;
   align-items: center;
   justify-content: center;
   height: 100vh;
-} */
+}
 
 #contenedor{
   width: 600px;
